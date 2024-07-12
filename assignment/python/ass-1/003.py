@@ -10,22 +10,32 @@ python = int(input("Enter Mark:-"))
 total = (html+css+js+php+python)
 avg = total/5
 
-if ((avg>90) and (avg<100)) {
+if ((avg>90) and (avg<100)):
+    {
     print("0")
-}else((avg>80) and (avg<89)) {
+    }
+    elif((avg>80) and (avg<89)):
+    {
     print("A")
-}else((avg>70) and (avg<79)) {
+    }
+    elif((avg>70) and (avg<79)):
+    {
     print("B")
-}else((avg>60) and (avg<69)) {
+    }
+    elif((avg>60) and (avg<69)):
+    {
     print("C")
-}else((avg>50) and (avg<59)) {
+    }
+    elif((avg>50) and (avg<59)):
+    {
     print("D")
-}else((avg>40) and (avg<49)) {
+    }elif((avg>40) and (avg<49)):
+    {
     print("E")
-}else((avg>39) and (avg<1)) {
+    }else:
+    {
     print("F")
-}
-
+    }
 
 
 # OUTPUT ===>
