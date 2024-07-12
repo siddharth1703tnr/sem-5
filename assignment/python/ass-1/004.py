@@ -4,4 +4,12 @@
 
 
 
+EMPNAME = ["ram", "shyam", "het"]
+print(EMPNAME)
+print(len(EMPNAME))
+print(type(EMPNAME))
+
+
+
+
 # OUTPUT ===>
