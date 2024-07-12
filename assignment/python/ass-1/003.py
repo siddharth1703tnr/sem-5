@@ -28,3 +28,10 @@ else:
 
 
 # OUTPUT ===>
+# HTML Mark:-55
+# CSS Mark:-55
+# JS Mark:-55
+# PHP Mark:-55
+# PYTHON Mark:-55
+# E
+# === Code Execution Successful ===
