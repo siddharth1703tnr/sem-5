@@ -1,4 +1,4 @@
-# assign-1 Program-2
+# assign-1 Program-3
 # 3. Create a Marksheet for 5 subjects and calculate total, average and grade with if else.
 
 html = int(input("HTML Mark:-"))
